@@ -1,0 +1,15 @@
+Pods
+Podfile.lock
+.DS_Store
+*.swp
+xcuserdata
+GHWPhotoBrowser.xcworkspace/xcuserdata
+GHWPhotoBrowser.xcworkspace/xcuserdata/
+GHWPhotoBrowser.xcworkspace/xcshareddata
+GHWPhotoBrowser.xcworkspace/xcshareddata/
+GHWPhotoBrowser.xcodeproj/xcuserdata
+GHWPhotoBrowser.xcodeproj/project.xcworkspace/xcshareddata/
+GHWPhotoBrowser.xcodeproj/xcuserdata/
+PodfileDev
+build/
+.idea/
