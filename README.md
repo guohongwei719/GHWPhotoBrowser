@@ -2,7 +2,7 @@
 a light weight and easy to use photo browser.
 
 
-<img src="https://github.com/guohongwei719/GHWPhotoBrowser/GHWPhotoBrowser/1.gif?raw=true" alt="GHWPhotoBrowser Screenshot" width="316" height="564"/>
+<img src="https://github.com/guohongwei719/GHWPhotoBrowser/blob/1.0.0/GHWPhotoBrowser/1.gif" alt="GHWPhotoBrowser Screenshot" width="316" height="564"/>
 
 ----
 # Requirements
