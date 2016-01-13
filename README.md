@@ -1,8 +1,8 @@
-# CXLSlideList
-a light weight and easy to use tableview with slide effect.
+# GHWPhotoBrowser
+a light weight and easy to use photo browser.
 
 
-<img src="https://github.com/becomedragon/CXLSlideList/blob/master/Slide.gif?raw=true" alt="CXLSlideList Screenshot" width="370" height="686"/>
+<img src="https://github.com/guohongwei719/GHWPhotoBrowser/GHWPhotoBrowser/1.gif?raw=true" alt="GHWPhotoBrowser Screenshot" width="316" height="564"/>
 
 ----
 # Requirements
