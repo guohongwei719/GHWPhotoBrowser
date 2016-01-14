@@ -478,6 +478,12 @@ NSString * const kPhotoBrowserSaveImageFailText = @" 保存失败 ";      // 图
     [self.contentView removeFromSuperview];
             [tempImageView removeFromSuperview];
         }];
+    [self test];
+}
+
+- (void)test
+{
+    NSLog(@"ceshiyixia");
 }
 
 @end
