@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/guohongwei719/GHWPhotoBrowser.git"
   s.license      = 'MIT'
-  s.author       = { "guohongwei719" => "512175082@qq.com" }
+  s.author       = { "guohongwei719" => "guohongwei719@126.com" }
   s.platform     = :ios, "7.0"
   s.ios.deployment_target = "7.0"
   s.source       = { :git => "https://github.com/guohongwei719/GHWPhotoBrowser.git", :tag => s.version}
